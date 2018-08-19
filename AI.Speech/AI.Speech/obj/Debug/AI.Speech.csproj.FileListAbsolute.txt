@@ -1,0 +1,1 @@
+C:\Craft\Git\C#_Speech\AI.Speech\AI.Speech\bin\Debug\AI.Speech.exe.config
