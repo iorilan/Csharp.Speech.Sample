@@ -1,0 +1,6 @@
+C:\Craft\Git\C#_Speech\AI.Speech\01-TextToSpeech\bin\Debug\01-TextToSpeech.exe.config
+C:\Craft\Git\C#_Speech\AI.Speech\01-TextToSpeech\bin\Debug\01-TextToSpeech.exe
+C:\Craft\Git\C#_Speech\AI.Speech\01-TextToSpeech\bin\Debug\01-TextToSpeech.pdb
+C:\Craft\Git\C#_Speech\AI.Speech\01-TextToSpeech\obj\Debug\01-TextToSpeech.csprojResolveAssemblyReference.cache
+C:\Craft\Git\C#_Speech\AI.Speech\01-TextToSpeech\obj\Debug\01-TextToSpeech.exe
+C:\Craft\Git\C#_Speech\AI.Speech\01-TextToSpeech\obj\Debug\01-TextToSpeech.pdb
